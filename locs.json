@@ -1,0 +1,163 @@
+[
+    {
+      "nome": "Maxximum Coworking",
+      "coords": {
+        "latitude": -7.91833,
+        "longitude": -34.82095
+      },
+      "desc": "Av. Dr. Cláudio José Gueiros Leite, Sala 2, n.º 2713 - Janga, Paulista - PE, 53437-000"
+    },
+    {
+      "nome": "Verçosa Coworking",
+      "coords": {
+        "latitude": -7.93495,
+        "longitude": -34.82478
+      },
+      "desc": "Av. Dr. Cláudio José Gueiros Leite, 2491 158 - 1º Andar - Janga, Paulista - PE, 53437-000"
+    },
+    {
+      "nome": "Espaço Marfim",
+      "coords": {
+        "latitude": -7.96990,
+        "longitude": -34.84745
+      },
+      "desc": "R. Marfim, 14 - Jardim Atlântico, Olinda - PE, 53060-280"
+    },
+    {
+      "nome": "Embracap Escritório Virtual",
+      "coords": {
+        "latitude": -7.96718,
+        "longitude": -34.83354
+      },
+      "desc": "Av. Carlos de Lima Cavalcante, 3995 - sala 30 - Casa Caiada, Olinda - PE, 53130-555"
+    },
+    {
+      "nome": "Jardim de Seu Geraldo",
+      "coords": {
+        "latitude": -7.98061,
+        "longitude": -34.83783
+      },
+      "desc": "Av. Carlos de Lima Cavalcante, 2441 - Casa Caiada, Olinda - PE, 53130-515"
+    },
+    {
+      "nome": "VS Coworking",
+      "coords": {
+        "latitude": -7.98384,
+        "longitude": -34.83866
+      },
+      "desc": "Av. Dr. José Augusto Moreira, 900 - Sala 1905 - Casa Caiada, Olinda - PE, 53130-410"
+    },
+    {
+      "nome": "IWI Coworking",
+      "coords": {
+        "latitude": -7.98911,
+        "longitude": -34.84127
+      },
+      "desc": "Av. Carlos de Lima Cavalcante, 1710 - Casa Caiada, Olinda - PE, 53130-545"
+    },
+    {
+      "nome": "Coworking Jardim",
+      "coords": {
+        "latitude": -7.99404,
+        "longitude": -34.84024
+      },
+      "desc": "Av. Pres. Getúlio Vargas, 1605 - Bairro Novo, Olinda - PE, 53030-010"
+    },
+    {
+      "nome": "Farol Coworking",
+      "coords": {
+        "latitude": -7.99914,
+        "longitude": -34.84230
+      },
+      "desc": "R. Cel. Alberto Lundgren, 370 - Bairro Novo, Olinda - PE, 53030-200"
+    },
+    {
+      "nome": "BlackWork Coworking Olinda",
+      "coords": {
+        "latitude": -7.99642,
+        "longitude": -34.84745
+      },
+      "desc": "Av. Chico Science, 72 - loja 9 e 10 - Bultrins, Olinda - PE, 53030-260"
+    },
+    {
+      "nome": "Espaço 34 - Escritório Compartilhado",
+      "coords": {
+        "latitude": -8.02650,
+        "longitude": -34.88023
+      },
+      "desc": "R. Seabra, 34 - Campo Grande, Recife - PE, 52040-261"
+    },
+    {
+      "nome": "Espaço Tamarineira Coworking",
+      "coords": {
+        "latitude": -8.02446,
+        "longitude": -34.90118
+      },
+      "desc": "Estr. Velha de Água Fria, 715 - Tamarineira, Recife - PE, 52110-120"
+    },
+    {
+      "nome": "WorkHall Parnamirim",
+      "coords": {
+        "latitude": -8.03041,
+        "longitude": -34.90993
+      },
+      "desc": "Av. Parnamirim, 416 - Parnamirim, Recife - PE, 52060-000"
+    },
+    {
+      "nome": "Plexos | Escritório Virtual e Coworking",
+      "coords": {
+        "latitude": -8.03352,
+        "longitude": -34.89598
+      },
+      "desc": "Av. Norte Miguel Arraes de Alencar, 3003 - Rosarinho, Recife - PE, 52041-080"
+    },
+    {
+      "nome": "Grupo Projetar Coworking",
+      "coords": {
+        "latitude": -8.03420,
+        "longitude": -34.89684
+      },
+      "desc": "R. Caio Pereira, 331 - Rosarinho, Recife - PE, 52041-010"
+    },
+    {
+      "nome": "Hub Plural - Aflitos",
+      "coords": {
+        "latitude": -8.03641,
+        "longitude": -34.89869
+      },
+      "desc": "Av. Santos Dumont, 300 - Aflitos, Recife - PE, 52050-050"
+    },
+    {
+      "nome": "Workspot Coworking",
+      "coords": {
+        "latitude": -8.03836,
+        "longitude": -34.90126
+      },
+      "desc": "R. do Futuro, 564 - Graças, Recife - PE, 52050-005"
+    },
+    {
+      "nome": "Coworking - Collab Hub Recife - Coworking e sala de estudos",
+      "coords": {
+        "latitude": -8.04176,
+        "longitude": -34.89534
+      },
+      "desc": "Rua Conselheiro Portela, 246 - salas 08 e primeiro andar - Espinheiro, Recife - PE, 52020-185"
+    },
+    {
+      "nome": "Local Coworking - Unidade Santo Amaro",
+      "coords": {
+        "latitude": -8.05187,
+        "longitude": -34.88453
+      },
+      "desc": "R. Treze de Maio, 21 - Santo Amaro, Recife - PE, 50100-160"
+    },
+    {
+      "nome": "workhall Espinheiro",
+      "coords": {
+        "latitude": -8.04516,
+        "longitude": -34.89513
+      },
+      "desc": "R. do Espinheiro, 280 - loja 7 - Espinheiro, Recife - PE, 52020-020"
+    }
+  ]
+  
